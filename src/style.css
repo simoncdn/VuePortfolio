@@ -3,3 +3,10 @@
 	margin: 0;
 	padding: 0;
 }
+body{
+	font-family: 'Oswald','Roboto', sans-serif;
+	overscroll-behavior: none;
+}
+body::-webkit-scrollbar {
+    display: none;
+}
